@@ -5,14 +5,14 @@ Aloitusasiaa
 ------------
 
 Pisteytys:
-|max | koe | laskarit |
-| --- | --- | --- |
-|36  | 30  | 6        |
+max | koe | laskarit 
+--- | --- | --- 
+36  | 30  | 6
 
 Arvosana:
-| 5   |  4  |  3  |  2  | 1  |
- --- | --- | --- | --- | --- |
-| 30  |  27 |  24 |  21 | 18 |
+5 | 4 | 3 | 2  | 1  
+--- | --- | --- | --- | --- 
+30 | 27 | 24 | 21 | 18 
 
 ###Kurssikirja
 Fairbanks G: Just Enough Software Architechture - A Risk-Driven Approach
@@ -60,12 +60,12 @@ Laadultaan hyvien ohjelmistojen totetus on entistä tärkeämpää (tehokkuus, t
 
 Rakenteet vs Suunnitelupäätökset
 
-|Rakenteet           | Suunnittelupäätökset |
-| ---| --- |
-|Kattavuus           | Ominaisuudet         |
-|Dokumentaatio       | Ymmärrys             |
-|Suunnitelmallisuus  | Inkrementaalisuus    |
-|Hallinta            |                      |
+| Rakenteet           | Suunnittelupäätökset |
+| --- | --- |
+| Kattavuus           | Ominaisuudet         |
+| Dokumentaatio       | Ymmärrys             |
+| Suunnitelmallisuus  | Inkrementaalisuus    |
+| Hallinta            |                      |
 
 ###Rakenteet
 
