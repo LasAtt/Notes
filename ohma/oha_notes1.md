@@ -1,4 +1,4 @@
-2016-09-06 OhMa luento 1
+2016-09-06 Oha luento 1
 ========================
 
 Aloitusasiaa
