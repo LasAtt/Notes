@@ -1,4 +1,4 @@
-2016-09-06 OhMa luento 1
+2016-09-06 Oha luento 1
 ========================
 
 Aloitusasiaa
@@ -47,9 +47,13 @@ Sovellusten toimintojen määrä kasvoi 1980-lukuun asti, siitä lähtien ollut 
 ###Ohjelmistojen merkitys
 
 2010-luvulla paljon käyttäjämäärältään globaaleja tietojärjestelmiä
+
 Laskentateho, tiedonsiirto, hajautettu tallennus ja rinnakkainen käsittelu kehittyneet huimasti
+
 Virtualistointi ja pilvestä saatava laskenta ja tallennuskapasiteetti antaa mahdollisuuden tarjota sovelluksia isoina `ohjelmistoratkaisuina`
+
 Laadultaan hyvien ohjelmistojen totetus on entistä tärkeämpää (tehokkuus, tarkoituksenmukaisuus, luotettavuus, saatavuus yms.)
+
 **Ohjelmistoarkkitehtuuri** tarjoa ratkaisun halutun laadun ja tuottavuuden saavuttamiseen
 
 ###Ohjelmistotekniikan kehityksestä
