@@ -1,7 +1,7 @@
 2016-09-15 luento 4 
 ===================
 
-#Jatkoa luentoon 3
+##Jatkoa luentoon 3
 
 ###"Kaunis arkkitehtuuri"
 * One fact in one place, yksi toiminnallisuus toteutetaan kerran
